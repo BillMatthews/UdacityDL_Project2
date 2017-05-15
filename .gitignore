@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Project specific
+cifar-10*
+preprocess_*.p
+
 # Distribution / packaging
 .Python
 env/
